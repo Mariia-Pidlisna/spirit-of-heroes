@@ -2,8 +2,8 @@
 const heroes = [
   {
     name: "АСТРАХАНЦЕВ ОЛЕКСАНДР",
-    img: "ages/astrakhantsev-oleksandr/IMG_9682.webp",
-    link: "ages/astrakhantsev-oleksandr/astrakhantsev-oleksandr.html",
+    img: "/pages/astrakhantsev-oleksandr/IMG_9682.webp",
+    link: "/pages/astrakhantsev-oleksandr/astrakhantsev-oleksandr.html",
     desc: `
       МАЙСТЕР КІОКУШИНКАЙ КАРАТЕ <br>
       НАРОДИВСЯ 1969 РОКУ В М. БЕРДИЧІВ
