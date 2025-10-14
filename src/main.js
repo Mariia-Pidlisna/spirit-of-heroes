@@ -1,10 +1,9 @@
-import astrakhantsev-oleksandr from '/pages/astrakhantsev-oleksandr/astrakhantsev-oleksandr.html';
 
 const heroes = [
   {
     name: "АСТРАХАНЦЕВ ОЛЕКСАНДР",
-    img: "/pages/astrakhantsev-oleksandr/IMG_9682.webp",
-    link: "/pages/astrakhantsev-oleksandr/astrakhantsev-oleksandr.html",
+    img: "ages/astrakhantsev-oleksandr/IMG_9682.webp",
+    link: "ages/astrakhantsev-oleksandr/astrakhantsev-oleksandr.html",
     desc: `
       МАЙСТЕР КІОКУШИНКАЙ КАРАТЕ <br>
       НАРОДИВСЯ 1969 РОКУ В М. БЕРДИЧІВ
@@ -20,8 +19,8 @@ const heroes = [
   },
    {
     name: "КУЛЬКОВ СЕРГІЙ",
-    img: "./pages/kulkov-sergiy/kulkov-sergiy.webp",
-    link: "./pages/kulkov-sergiy/kulkov-sergiy.html",
+    img: "/pages/kulkov-sergiy/kulkov-sergiy.webp",
+    link: "/pages/kulkov-sergiy/kulkov-sergiy.html",
     desc: `
       СПОРТСМЕН КІОКУШИНКАЙ КАРАТЕ ТА СПЕЦПРИЗНАЧИНЕЦЬ <br>
       НАРОДИВСЯ 1979 РОКУ.`,
