@@ -1,3 +1,5 @@
+import astrakhantsev-oleksandr from '/pages/astrakhantsev-oleksandr/astrakhantsev-oleksandr.html';
+
 const heroes = [
   {
     name: "АСТРАХАНЦЕВ ОЛЕКСАНДР",
