@@ -3,11 +3,11 @@
       Народився 1969 року в м. Бердичів 
     `},{name:"Бахтiнoв Cавелій",img:a,link:"./bakhtinov-cavelii/bakhtinov-cavelii.html",desc:`
       Спортсмен кіокушинкай карате<br>
-      Народився 1999 року у м. Буськ`},{name:"Божко Сергій Миколайович",img:d,link:"./bozhko-serhii/bozhko-serhii.html",desc:`
+      Народився 1999 року у м. Буськ`},{name:"Божко Сергій",img:d,link:"./bozhko-serhii/bozhko-serhii.html",desc:`
       Молодший сержант <br>
       Народився 19 жовтня 1976 року`},{name:"Васін Валерій",img:m,link:"./vasin-valerii/vasin-valerii.html",desc:`
       Тренер з кіокушинкай карате<br>
-      Народився 1975 року, м. Херсон`},{name:"КУЛЬКОВ СЕРГІЙ",img:c,link:"./kulkov-sergiy/kulkov-sergiy.html",desc:`
+      Народився 1975 року, м. Херсон`},{name:"Кульков Cергій",img:c,link:"./kulkov-sergiy/kulkov-sergiy.html",desc:`
       Спортсмен кіокушинкай карате та Спецпризначинець<br>
       Народився 1979 року`}],f=document.querySelector(".gallery-ul");u.forEach(t=>{const r=document.createElement("li");r.classList.add("gallery-list"),r.innerHTML=`
     <a class="gallery-list-url" href="${t.link}">
