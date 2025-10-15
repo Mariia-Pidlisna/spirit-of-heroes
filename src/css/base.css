@@ -90,6 +90,10 @@ main:has(.back-link) {
     box-shadow: 0 0 15px rgba(255, 215, 0, 0.3);
 }
 
+.gallery-list-url h2 {
+  text-transform: uppercase;
+}
+
 @media only screen and (min-width: 768px) {
 .gallery-ul {
     display: flex;

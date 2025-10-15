@@ -1,6 +1,3 @@
-export default {
-  base: '/spirit-of-heroes/',
-}
 
 import IMG_9682 from '/astrakhantsev-oleksandr/IMG_9682.webp';
 import bakhtinovCaveliiImg from '/bakhtinov-cavelii/IMG_2988.webp';
@@ -11,12 +8,12 @@ import vasinValerii from '/vasin-valerii/IMG_9629.webp'
 
 const heroes = [
   {
-    name: "АСТРАХАНЦЕВ ОЛЕКСАНДР",
+    name: "Астраханцев Олександр",
     img: IMG_9682,
-    link: '/astrakhantsev-oleksandr/astrakhantsev-oleksandr.html',
+    link: './astrakhantsev-oleksandr/astrakhantsev-oleksandr.html',
     desc: `
-      МАЙСТЕР КІОКУШИНКАЙ КАРАТЕ <br>
-      НАРОДИВСЯ 1969 РОКУ В М. БЕРДИЧІВ
+      Майстер кіокушинкай карате<br>
+      Народився 1969 року в м. Бердичів 
     `,
   },
      {
@@ -24,32 +21,32 @@ const heroes = [
     img: bakhtinovCaveliiImg,
     link: './bakhtinov-cavelii/bakhtinov-cavelii.html',
     desc: `
-      СПОРТСМЕН КІОКУШИНКАЙ КАРАТЕ ТА СПЕЦПРИЗНАЧИНЕЦЬ <br>
-      НАРОДИВСЯ 1979 РОКУ.`,
+      Спортсмен кіокушинкай карате<br>
+      Народився 1999 року у м. Буськ`,
   },
    {
     name: "Божко Сергій Миколайович",
     img: IMG_3011,
     link: './bozhko-serhii/bozhko-serhii.html',
     desc: `
-      СПОРТСМЕН КІОКУШИНКАЙ КАРАТЕ ТА СПЕЦПРИЗНАЧИНЕЦЬ <br>
-      НАРОДИВСЯ 1979 РОКУ.`,
+      Молодший сержант <br>
+      Народився 19 жовтня 1976 року`,
   },
   {
     name: "Васін Валерій",
     img: vasinValerii,
     link: './vasin-valerii/vasin-valerii.html',
     desc: `
-      СПОРТСМЕН КІОКУШИНКАЙ КАРАТЕ ТА СПЕЦПРИЗНАЧИНЕЦЬ <br>
-      НАРОДИВСЯ 1979 РОКУ.`,
+      Тренер з кіокушинкай карате<br>
+      Народився 1975 року, м. Херсон`,
   },
   {
     name: "КУЛЬКОВ СЕРГІЙ",
     img: kulkovSergiyImg,
     link: './kulkov-sergiy/kulkov-sergiy.html',
     desc: `
-      СПОРТСМЕН КІОКУШИНКАЙ КАРАТЕ ТА СПЕЦПРИЗНАЧИНЕЦЬ <br>
-      НАРОДИВСЯ 1979 РОКУ.`,
+      Спортсмен кіокушинкай карате та Спецпризначинець<br>
+      Народився 1979 року`,
   },
  
 ];
