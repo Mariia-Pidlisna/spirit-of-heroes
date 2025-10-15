@@ -1,13 +1,14 @@
 import IMG_9682 from '/astrakhantsev-oleksandr/IMG_9682.webp';
 import bakhtinovCaveliiImg from '/bakhtinov-cavelii/IMG_2988.webp';
 import kulkovSergiyImg from '/kulkov-sergiy/kulkov-sergiy.webp';
-
+import IMG_3011 from '/bozhko-serhii/IMG_3011.webp'
+import vasinValerii from '/vasin-valerii/IMG_9629.webp'
 
 const heroes = [
   {
     name: "АСТРАХАНЦЕВ ОЛЕКСАНДР",
     img: IMG_9682,
-    link: './astrakhantsev-oleksandr/astrakhantsev-oleksandr.html',
+    link: '/astrakhantsev-oleksandr/astrakhantsev-oleksandr.html',
     desc: `
       МАЙСТЕР КІОКУШИНКАЙ КАРАТЕ <br>
       НАРОДИВСЯ 1969 РОКУ В М. БЕРДИЧІВ
@@ -17,6 +18,22 @@ const heroes = [
     name: "Бахтiнoв Cавелій",
     img: bakhtinovCaveliiImg,
     link: '/bakhtinov-cavelii/bakhtinov-cavelii.html',
+    desc: `
+      СПОРТСМЕН КІОКУШИНКАЙ КАРАТЕ ТА СПЕЦПРИЗНАЧИНЕЦЬ <br>
+      НАРОДИВСЯ 1979 РОКУ.`,
+  },
+   {
+    name: "Божко Сергій Миколайович",
+    img: IMG_3011,
+    link: '/bozhko-serhii/bozhko-serhii.html',
+    desc: `
+      СПОРТСМЕН КІОКУШИНКАЙ КАРАТЕ ТА СПЕЦПРИЗНАЧИНЕЦЬ <br>
+      НАРОДИВСЯ 1979 РОКУ.`,
+  },
+  {
+    name: "Васін Валерій",
+    img: vasinValerii,
+    link: '/vasin-valerii/vasin-valerii.html',
     desc: `
       СПОРТСМЕН КІОКУШИНКАЙ КАРАТЕ ТА СПЕЦПРИЗНАЧИНЕЦЬ <br>
       НАРОДИВСЯ 1979 РОКУ.`,
