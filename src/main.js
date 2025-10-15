@@ -1,10 +1,11 @@
-import '/pages/astrakhantsev-oleksandr/IMG_9682.webp';
+import IMG_9682 from '/pages/astrakhantsev-oleksandr/IMG_9682.webp';
 import './pages/astrakhantsev-oleksandr/astrakhantsev-oleksandr.html';
+import kulkovSergiy from '/pages/kulkov-sergiy/kulkov-sergiy.webp';
 
 const heroes = [
   {
     name: "АСТРАХАНЦЕВ ОЛЕКСАНДР",
-    img: "/pages/astrakhantsev-oleksandr/IMG_9682.webp",
+    img: IMG_9682,
     link: "/pages/astrakhantsev-oleksandr/astrakhantsev-oleksandr.html",
     desc: `
       МАЙСТЕР КІОКУШИНКАЙ КАРАТЕ <br>
@@ -13,7 +14,7 @@ const heroes = [
   },
   {
     name: "КУЛЬКОВ СЕРГІЙ",
-    img: "/pages/kulkov-sergiy/kulkov-sergiy.webp",
+    img: kulkovSergiy,
     link: "/pages/kulkov-sergiy/kulkov-sergiy.html",
     desc: `
       СПОРТСМЕН КІОКУШИНКАЙ КАРАТЕ ТА СПЕЦПРИЗНАЧИНЕЦЬ <br>
