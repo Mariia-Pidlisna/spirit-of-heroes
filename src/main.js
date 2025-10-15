@@ -1,3 +1,5 @@
+import '/pages/astrakhantsev-oleksandr/IMG_9682.webp';
+import './pages/astrakhantsev-oleksandr/astrakhantsev-oleksandr.html';
 
 const heroes = [
   {
