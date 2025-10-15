@@ -2,8 +2,8 @@
 import IMG_9682 from '/astrakhantsev-oleksandr/IMG_9682.webp';
 import bakhtinovCaveliiImg from '/bakhtinov-cavelii/IMG_2988.webp';
 import kulkovSergiyImg from '/kulkov-sergiy/kulkov-sergiy.webp';
-import IMG_3011 from '/bozhko-serhii/IMG_3011.webp'
-import vasinValerii from '/vasin-valerii/IMG_9629.webp'
+import IMG_3011 from '/bozhko-serhii/IMG_3011.webp';
+import vasinValerii from '/vasin-valerii/IMG_9629.webp';
 
 
 const heroes = [
@@ -25,7 +25,7 @@ const heroes = [
       Народився 1999 року у м. Буськ`,
   },
    {
-    name: "Божко Сергій Миколайович",
+    name: "Божко Сергій",
     img: IMG_3011,
     link: './bozhko-serhii/bozhko-serhii.html',
     desc: `
@@ -41,7 +41,7 @@ const heroes = [
       Народився 1975 року, м. Херсон`,
   },
   {
-    name: "КУЛЬКОВ СЕРГІЙ",
+    name: "Кульков Cергій",
     img: kulkovSergiyImg,
     link: './kulkov-sergiy/kulkov-sergiy.html',
     desc: `
