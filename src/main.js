@@ -1,14 +1,19 @@
+export default {
+  base: '/spirit-of-heroes/',
+}
+
 import IMG_9682 from '/astrakhantsev-oleksandr/IMG_9682.webp';
 import bakhtinovCaveliiImg from '/bakhtinov-cavelii/IMG_2988.webp';
 import kulkovSergiyImg from '/kulkov-sergiy/kulkov-sergiy.webp';
 import IMG_3011 from '/bozhko-serhii/IMG_3011.webp'
 import vasinValerii from '/vasin-valerii/IMG_9629.webp'
 
+
 const heroes = [
   {
     name: "АСТРАХАНЦЕВ ОЛЕКСАНДР",
     img: IMG_9682,
-    link: './astrakhantsev-oleksandr/astrakhantsev-oleksandr.html',
+    link: '/astrakhantsev-oleksandr/astrakhantsev-oleksandr.html',
     desc: `
       МАЙСТЕР КІОКУШИНКАЙ КАРАТЕ <br>
       НАРОДИВСЯ 1969 РОКУ В М. БЕРДИЧІВ
