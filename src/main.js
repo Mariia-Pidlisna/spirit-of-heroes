@@ -8,7 +8,7 @@ const heroes = [
   {
     name: "АСТРАХАНЦЕВ ОЛЕКСАНДР",
     img: IMG_9682,
-    link: '/astrakhantsev-oleksandr/astrakhantsev-oleksandr.html',
+    link: 'ю/astrakhantsev-oleksandr/astrakhantsev-oleksandr.html',
     desc: `
       МАЙСТЕР КІОКУШИНКАЙ КАРАТЕ <br>
       НАРОДИВСЯ 1969 РОКУ В М. БЕРДИЧІВ
@@ -17,7 +17,7 @@ const heroes = [
      {
     name: "Бахтiнoв Cавелій",
     img: bakhtinovCaveliiImg,
-    link: '/bakhtinov-cavelii/bakhtinov-cavelii.html',
+    link: 'ю/bakhtinov-cavelii/bakhtinov-cavelii.html',
     desc: `
       СПОРТСМЕН КІОКУШИНКАЙ КАРАТЕ ТА СПЕЦПРИЗНАЧИНЕЦЬ <br>
       НАРОДИВСЯ 1979 РОКУ.`,
@@ -25,7 +25,7 @@ const heroes = [
    {
     name: "Божко Сергій Миколайович",
     img: IMG_3011,
-    link: '/bozhko-serhii/bozhko-serhii.html',
+    link: 'ю/bozhko-serhii/bozhko-serhii.html',
     desc: `
       СПОРТСМЕН КІОКУШИНКАЙ КАРАТЕ ТА СПЕЦПРИЗНАЧИНЕЦЬ <br>
       НАРОДИВСЯ 1979 РОКУ.`,
@@ -33,7 +33,7 @@ const heroes = [
   {
     name: "Васін Валерій",
     img: vasinValerii,
-    link: '/vasin-valerii/vasin-valerii.html',
+    link: 'ю/vasin-valerii/vasin-valerii.html',
     desc: `
       СПОРТСМЕН КІОКУШИНКАЙ КАРАТЕ ТА СПЕЦПРИЗНАЧИНЕЦЬ <br>
       НАРОДИВСЯ 1979 РОКУ.`,
@@ -41,7 +41,7 @@ const heroes = [
   {
     name: "КУЛЬКОВ СЕРГІЙ",
     img: kulkovSergiyImg,
-    link: '/kulkov-sergiy/kulkov-sergiy.html',
+    link: 'ю/kulkov-sergiy/kulkov-sergiy.html',
     desc: `
       СПОРТСМЕН КІОКУШИНКАЙ КАРАТЕ ТА СПЕЦПРИЗНАЧИНЕЦЬ <br>
       НАРОДИВСЯ 1979 РОКУ.`,
