@@ -1,12 +1,13 @@
-import IMG_9682 from '/pages/astrakhantsev-oleksandr/IMG_9682.webp';
-import kulkovSergiyImg from './pages/kulkov-sergiy/kulkov-sergiy.webp';
-import bakhtinovCaveliiImg from '/pages/bakhtinov-cavelii/IMG_2988.webp';
+import IMG_9682 from '/astrakhantsev-oleksandr/IMG_9682.webp';
+import bakhtinovCaveliiImg from '/bakhtinov-cavelii/IMG_2988.webp';
+import kulkovSergiyImg from '/kulkov-sergiy/kulkov-sergiy.webp';
+
 
 const heroes = [
   {
     name: "АСТРАХАНЦЕВ ОЛЕКСАНДР",
     img: IMG_9682,
-    link: '/pages/astrakhantsev-oleksandr/astrakhantsev-oleksandr.html',
+    link: './astrakhantsev-oleksandr/astrakhantsev-oleksandr.html',
     desc: `
       МАЙСТЕР КІОКУШИНКАЙ КАРАТЕ <br>
       НАРОДИВСЯ 1969 РОКУ В М. БЕРДИЧІВ
@@ -15,7 +16,7 @@ const heroes = [
      {
     name: "Бахтiнoв Cавелій",
     img: bakhtinovCaveliiImg,
-    link: '/pages/bakhtinov-cavelii/bakhtinov-cavelii.html',
+    link: '/bakhtinov-cavelii/bakhtinov-cavelii.html',
     desc: `
       СПОРТСМЕН КІОКУШИНКАЙ КАРАТЕ ТА СПЕЦПРИЗНАЧИНЕЦЬ <br>
       НАРОДИВСЯ 1979 РОКУ.`,
@@ -23,7 +24,7 @@ const heroes = [
   {
     name: "КУЛЬКОВ СЕРГІЙ",
     img: kulkovSergiyImg,
-    link: '/pages/kulkov-sergiy/kulkov-sergiy.html',
+    link: '/kulkov-sergiy/kulkov-sergiy.html',
     desc: `
       СПОРТСМЕН КІОКУШИНКАЙ КАРАТЕ ТА СПЕЦПРИЗНАЧИНЕЦЬ <br>
       НАРОДИВСЯ 1979 РОКУ.`,
