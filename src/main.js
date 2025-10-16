@@ -4,6 +4,7 @@ import bakhtinovCaveliiImg from '/bakhtinov-cavelii/IMG_2988.webp';
 import kulkovSergiyImg from '/kulkov-sergiy/kulkov-sergiy.webp';
 import IMG_3011 from '/bozhko-serhii/IMG_3011.webp';
 import vasinValerii from '/vasin-valerii/IMG_9629.webp';
+import dumanskyiPavlo from './public/dumanskyi-pavlo/IMG_9701.webp'
 
 
 const heroes = [
@@ -39,6 +40,14 @@ const heroes = [
     desc: `
       Тренер з кіокушинкай карате<br>
       Народився 1975 року, м. Херсон`,
+  },
+   {
+    name: "Думанський Павло",
+    img: dumanskyiPavlo ,
+    link: '/dumanskyi-pavlo/dumanskyi-pavlo.html',
+    desc: `
+      Спортсмен кіокушинкай карате<br>
+      Народився 2003 року у Львові`,
   },
   {
     name: "Кульков Cергій",
