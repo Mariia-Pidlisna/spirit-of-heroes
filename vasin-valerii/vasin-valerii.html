@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="./vasin-valerii.css">
     <link rel="stylesheet" href="/css/styles.css">
     <script src="./vasin-valerii.js" defer></script>
+    <script src="/main.js" defer></script>
 </head>
 
 <body>
@@ -72,14 +73,20 @@
                 </div>
 
 <div class="memory-gallery-img">
-    <ul>
-        <li>
-            <img src="./IMG_9629.webp" alt="Васін Валерій">
-        </li>
-        <li>
-            <img src="./IMG_9628.webp" alt="Васін Валерій">
-        </li>
-    </ul>
+    <div class="gallery-item">
+        <img src="./IMG_9629.webp" alt="Васін Валерій">
+    </div>
+    <div class="gallery-item">
+        <img src="./IMG_9628.webp" alt="Васін Валерій">
+    </div>
+</div>
+
+<!-- Модальне вікно -->
+<div id="modal" class="modal">
+    <span class="close">&times;</span>
+    <img class="modal-content" id="modal-img">
+    <button class="nav-btn prev">&#10094;</button>
+    <button class="nav-btn next">&#10095;</button>
 
 </div>
             </section>
