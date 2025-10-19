@@ -4,7 +4,8 @@ import bakhtinovCaveliiImg from '/bakhtinov-cavelii/IMG_2988.webp';
 import kulkovSergiyImg from '/kulkov-sergiy/kulkov-sergiy.webp';
 import IMG_3011 from '/bozhko-serhii/IMG_3011.webp';
 import vasinValerii from '/vasin-valerii/IMG_9629.webp';
-import dumanskyiPavlo from './public/dumanskyi-pavlo/IMG_9701.webp'
+import dumanskyiPavlo from './public/dumanskyi-pavlo/IMG_9701.webp';
+import zhydkovMykola from './public/zhydkov-mykola/IMG_9666.webp';
 
 
 const heroes = [
@@ -43,11 +44,19 @@ const heroes = [
   },
    {
     name: "Думанський Павло",
-    img: dumanskyiPavlo ,
+    img: dumanskyiPavlo,
     link: '/dumanskyi-pavlo/dumanskyi-pavlo.html',
     desc: `
       Спортсмен кіокушинкай карате<br>
       Народився 2003 року у Львові`,
+  },
+    {
+    name: "Жидков Микола",
+    img: zhydkovMykola,
+    link: '/public/zhydkov-mykola/zhydkov-mykola.html',
+    desc: `
+      Людина, яка любила футбол та карате<br>
+      Народився 2001 року м. Кропивницький`,
   },
   {
     name: "Кульков Cергій",
