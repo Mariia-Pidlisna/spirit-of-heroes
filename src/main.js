@@ -11,7 +11,7 @@ const heroes = [
   {
     name: "Астраханцев Олександр",
     img: IMG_9682,
-    link: '/partials/astrakhantsev-oleksandr.html',
+    link: './partials/astrakhantsev-oleksandr.html',
     desc: `
       Майстер кіокушинкай карате<br>
       Народився 1969 року в м. Бердичів 
