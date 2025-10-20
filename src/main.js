@@ -12,7 +12,7 @@ import malofieievOleksandr from '/malofieiev-oleksandr/IMG_9698.webp';
 import medynskyiOleh from '/medynskyi-oleh/medynskyi-oleh-kostiantynovych.webp';
 import piskovyiRuslan from '/piskovyi-ruslan/IMG_3012.webp';
 import romanovskyiIllia from '/romanovskyi-illia/IMG_2938.webp';
-import yarmolenkoViktor from './public/yarmolenko-viktor/IMG_2932.webp'
+import yarmolenkoViktor from './public/yarmolenko-viktor/IMG_2932.webp';
 
 const heroes = [
   {
