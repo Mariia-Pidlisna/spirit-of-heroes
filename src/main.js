@@ -10,6 +10,7 @@ import zvonykDan from '/zvonyk-dan/IMG_9852.webp';
 import kostakovSerhii from '/kostakov-serhii/IMG_2935.webp';
 import malofieievOleksandr from '/malofieiev-oleksandr/IMG_9698.webp';
 import medynskyiOleh from '/medynskyi-oleh/medynskyi-oleh-kostiantynovych.webp';
+import piskovyiRuslan from './public/piskovyi-ruslan/IMG_3012.webp';
 
 const heroes = [
   {
@@ -101,7 +102,14 @@ const heroes = [
       Майстер кіокушинкай карате, 2 дан<br>
       Народився 1968 року в с. Іллінка`,
   },
- 
+       {
+    name: "Пісковий Руслан",
+    img: piskovyiRuslan,
+    link: './piskovyi-ruslan/piskovyi-ruslan.html',
+    desc: `
+      Професійно займався кікбоксингом<br>
+      Народився 23 листопада 2001 року в м. Київ`,
+  },
 ];
 
 
