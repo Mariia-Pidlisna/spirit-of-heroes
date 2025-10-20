@@ -6,7 +6,7 @@ import IMG_3011 from '/bozhko-serhii/IMG_3011.webp';
 import vasinValerii from '/vasin-valerii/IMG_9629.webp';
 import dumanskyiPavlo from '/dumanskyi-pavlo/IMG_9701.webp';
 import zhydkovMykola from '/zhydkov-mykola/IMG_9666.webp';
-import zvonykDan from '/zvonyk-dan/IMG_9852.webp'
+import zvonykDan from '/zvonyk-dan/IMG_9852.webp';
 
 
 const heroes = [
@@ -64,8 +64,16 @@ const heroes = [
     img: zvonykDan,
     link: './zvonyk-dan/zvonyk-dan.html',
     desc: `
-      Людина, яка любила футбол та карате<br>
-      Народився 2001 року м. Кропивницький`,
+      Спортсмен кіокушинкай карате<br>
+      Народився 1996 року м. Донецьк`,
+  },
+     {
+    name: "Костаков Сергій",
+    img: kostakovSerhii,
+    link: './kostakov-serhii/kostakov-serhii.html',
+    desc: `
+      Старший солдат, Снайпер<br>
+      Народився 12 травня 1972 року в м. Київ`,
   },
   {
     name: "Кульков Cергій",
