@@ -1,14 +1,15 @@
 
 import IMG_9682 from '/astrakhantsev-oleksandr/IMG_9682.webp';
 import bakhtinovCaveliiImg from '/bakhtinov-cavelii/IMG_2988.webp';
-import kulkovSergiyImg from '/kulkov-sergiy/kulkov-sergiy.webp';
+import kulkovSergiyImg from '/kulkov-sergiy/IMG_9719.webp';
 import IMG_3011 from '/bozhko-serhii/IMG_3011.webp';
 import vasinValerii from '/vasin-valerii/IMG_9629.webp';
 import dumanskyiPavlo from '/dumanskyi-pavlo/IMG_9701.webp';
 import zhydkovMykola from '/zhydkov-mykola/IMG_9666.webp';
 import zvonykDan from '/zvonyk-dan/IMG_9852.webp';
 import kostakovSerhii from '/kostakov-serhii/IMG_2935.webp';
-
+import malofieievOleksandr from '/malofieiev-oleksandr/IMG_9698.webp';
+import medynskyiOleh from '/medynskyi-oleh/medynskyi-oleh-kostiantynovych.webp';
 
 const heroes = [
   {
@@ -83,6 +84,22 @@ const heroes = [
     desc: `
       Спортсмен кіокушинкай карате та Спецпризначинець<br>
       Народився 1979 року`,
+  },
+   {
+    name: "Малофєєв Олександр",
+    img: malofieievOleksandr,
+    link: './malofieiev-oleksandr/malofieiev-oleksandr.html',
+    desc: `
+      Майстер кіокушинкай карате, 1 дан<br>
+      Народився 1975 року`,
+  },
+      {
+    name: "Мединський Олег",
+    img: medynskyiOleh,
+    link: './medynskyi-oleh/medynskyi-oleh.html',
+    desc: `
+      Майстер кіокушинкай карате, 2 дан<br>
+      Народився 1968 року в с. Іллінка`,
   },
  
 ];
