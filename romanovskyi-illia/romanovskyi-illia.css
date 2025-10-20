@@ -70,17 +70,19 @@
 
 
 @media only screen and (min-width: 768px) {
-    .hero-section {
-        flex-direction: row;
-        padding: 20px 0;
-    }
+  
 
-    .hero-section-img img {
-        width: 50%;
-    }
+         .hero-section-img {
+             width: 100%;
+             object-fit: cover;
+         }
 }
 
 @media only screen and (min-width: 1200px) {
+    .hero-section {
+            flex-direction: row;
+            padding: 20px 0;
+        }
     .hero-section-container {
         display: flex;
         flex-direction: column;
