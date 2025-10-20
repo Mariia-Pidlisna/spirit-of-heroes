@@ -10,7 +10,8 @@ import zvonykDan from '/zvonyk-dan/IMG_9852.webp';
 import kostakovSerhii from '/kostakov-serhii/IMG_2935.webp';
 import malofieievOleksandr from '/malofieiev-oleksandr/IMG_9698.webp';
 import medynskyiOleh from '/medynskyi-oleh/medynskyi-oleh-kostiantynovych.webp';
-import piskovyiRuslan from './public/piskovyi-ruslan/IMG_3012.webp';
+import piskovyiRuslan from '/piskovyi-ruslan/IMG_3012.webp';
+import romanovskyiIllia from '/romanovskyi-illia/IMG_2938.webp';
 
 const heroes = [
   {
@@ -22,7 +23,7 @@ const heroes = [
       Народився 1969 року в м. Бердичів 
     `,
   },
-     {
+  {
     name: "Бахтiнoв Cавелій",
     img: bakhtinovCaveliiImg,
     link: './bakhtinov-cavelii/bakhtinov-cavelii.html',
@@ -30,7 +31,7 @@ const heroes = [
       Спортсмен кіокушинкай карате<br>
       Народився 1999 року у м. Буськ`,
   },
-   {
+  {
     name: "Божко Сергій",
     img: IMG_3011,
     link: './bozhko-serhii/bozhko-serhii.html',
@@ -46,7 +47,7 @@ const heroes = [
       Тренер з кіокушинкай карате<br>
       Народився 1975 року, м. Херсон`,
   },
-   {
+  {
     name: "Думанський Павло",
     img: dumanskyiPavlo,
     link: './dumanskyi-pavlo/dumanskyi-pavlo.html',
@@ -54,7 +55,7 @@ const heroes = [
       Спортсмен кіокушинкай карате<br>
       Народився 2003 року у Львові`,
   },
-    {
+  {
     name: "Жидков Микола",
     img: zhydkovMykola,
     link: './zhydkov-mykola/zhydkov-mykola.html',
@@ -62,7 +63,7 @@ const heroes = [
       Людина, яка любила футбол та карате<br>
       Народився 2001 року м. Кропивницький`,
   },
-    {
+  {
     name: "Звоник Дан",
     img: zvonykDan,
     link: './zvonyk-dan/zvonyk-dan.html',
@@ -70,7 +71,7 @@ const heroes = [
       Спортсмен кіокушинкай карате<br>
       Народився 1996 року м. Донецьк`,
   },
-     {
+  {
     name: "Костаков Сергій",
     img: kostakovSerhii,
     link: './kostakov-serhii/kostakov-serhii.html',
@@ -83,10 +84,10 @@ const heroes = [
     img: kulkovSergiyImg,
     link: './kulkov-sergiy/kulkov-sergiy.html',
     desc: `
-      Спортсмен кіокушинкай карате та Спецпризначинець<br>
+      Спортсмен кіокушинкай карате<br>
       Народився 1979 року`,
   },
-   {
+  {
     name: "Малофєєв Олександр",
     img: malofieievOleksandr,
     link: './malofieiev-oleksandr/malofieiev-oleksandr.html',
@@ -94,7 +95,7 @@ const heroes = [
       Майстер кіокушинкай карате, 1 дан<br>
       Народився 1975 року`,
   },
-      {
+  {
     name: "Мединський Олег",
     img: medynskyiOleh,
     link: './medynskyi-oleh/medynskyi-oleh.html',
@@ -102,13 +103,21 @@ const heroes = [
       Майстер кіокушинкай карате, 2 дан<br>
       Народився 1968 року в с. Іллінка`,
   },
-       {
+  {
     name: "Пісковий Руслан",
     img: piskovyiRuslan,
     link: './piskovyi-ruslan/piskovyi-ruslan.html',
     desc: `
       Професійно займався кікбоксингом<br>
       Народився 23 листопада 2001 року в м. Київ`,
+  },
+    {
+    name: "Романовський Ілля",
+    img: romanovskyiIllia,
+    link: './romanovskyi-illia/romanovskyi-illia.html',
+    desc: `
+      Спортсмен кіокушинкай карате<br>
+      Народився 24 травня 2004 року у с. Мар’янівка`,
   },
 ];
 
