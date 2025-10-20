@@ -7,6 +7,7 @@ import vasinValerii from '/vasin-valerii/IMG_9629.webp';
 import dumanskyiPavlo from '/dumanskyi-pavlo/IMG_9701.webp';
 import zhydkovMykola from '/zhydkov-mykola/IMG_9666.webp';
 import zvonykDan from '/zvonyk-dan/IMG_9852.webp';
+import kostakovSerhii from '/kostakov-serhii/IMG_2935.webp';
 
 
 const heroes = [
