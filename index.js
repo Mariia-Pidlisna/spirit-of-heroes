@@ -27,7 +27,7 @@
       Спортсмен кіокушинкай карате<br>
       Народився 24 травня 2004 року у с. Мар’янівка`},{name:"Ярмоленко Віктор",img:f,link:"./yarmolenko-viktor/yarmolenko-viktor.html",desc:`
       Спортсмен кіокушинкай карате<br>
-      Народився 2 січня 1976 року в місті Київ`}],M=document.querySelector(".gallery-ul");I.forEach(n=>{const o=document.createElement("li");o.classList.add("gallery-list"),o.innerHTML=`
+      Народився 2 січня 1976 року в м. Київ`}],M=document.querySelector(".gallery-ul");I.forEach(n=>{const o=document.createElement("li");o.classList.add("gallery-list"),o.innerHTML=`
     <a class="gallery-list-url" href="${n.link}">
       <img src="${n.img}" alt="${n.name}">
       <h2 class="gallery-title-img">${n.name}</h2>
