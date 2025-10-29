@@ -126,7 +126,7 @@ const heroes = [
     link: './yarmolenko-viktor/yarmolenko-viktor.html',
     desc: `
       Спортсмен кіокушинкай карате<br>
-      Народився 2 січня 1976 року в місті Київ`,
+      Народився 2 січня 1976 року в м. Київ`,
   },
 ];
 
