@@ -13,6 +13,9 @@ import medynskyiOleh from '/medynskyi-oleh/medynskyi-oleh-kostiantynovych.webp';
 import piskovyiRuslan from '/piskovyi-ruslan/IMG_3012.webp';
 import romanovskyiIllia from '/romanovskyi-illia/IMG_2938.webp';
 import yarmolenkoViktor from '/yarmolenko-viktor/IMG_2932.webp';
+import bobrovnykDenys from '/bobrovnyk-denys/IMG_2941.webp';
+import zeleniukVadym from '/zeleniuk-vadym/IMG_3823.webp';
+import tomashchukVitalii from './public/tomashchuk-vitalii/IMG_3810.webp';
 
 const heroes = [
   {
@@ -31,6 +34,14 @@ const heroes = [
     desc: `
       Спортсмен кіокушинкай карате<br>
       Народився 1999 року у м. Буськ`,
+  },
+   {
+    name: "Бобровник Денис",
+    img: bobrovnykDenys,
+    link: './bobrovnyk-denys/bobrovnyk-denys.html',
+    desc: `
+      Спортсмен кіокушинкай карате<br>
+<br>      `,
   },
   {
     name: "Божко Сергій",
@@ -71,6 +82,14 @@ const heroes = [
     desc: `
       Спортсмен кіокушинкай карате<br>
       Народився 1996 року м. Донецьк`,
+  },
+   {
+    name: "Зеленюк Вадим",
+    img: zeleniukVadym,
+    link: './zeleniuk-vadym/zeleniuk-vadym.html',
+    desc: `
+      Спортсмен кіокушинкай карате<br>
+      Народився у місті Красилів на Хмельниччині`,
   },
   {
     name: "Костаков Сергій",
@@ -119,6 +138,14 @@ const heroes = [
     desc: `
       Спортсмен кіокушинкай карате<br>
       Народився 24 травня 2004 року у с. Мар’янівка`,
+  },
+  {
+    name: "Томащук Віталій",
+    img: tomashchukVitalii,
+    link: './tomashchuk-vitalii/tomashchuk-vitalii.html',
+    desc: `
+      Спортсмен кіокушинкай карате<br>
+      <br>`,
   },
   {
     name: "Ярмоленко Віктор",

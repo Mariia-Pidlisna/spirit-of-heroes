@@ -43,6 +43,7 @@
 .hero-section-img img {
     width: 100%;
     border-radius: 6px;
+    object-fit: cover;
 }
 
 .hero-title {
@@ -75,7 +76,7 @@
         padding: 20px 0;
     }
 
-    .hero-section-img img {
+    .hero-section-img {
         width: 50%;
     }
 }
@@ -168,7 +169,7 @@
 
 @media only screen and (min-width: 1200px) {
     .memory-section-div {
-        flex-direction: row-reverse;
+        /* flex-direction: row-reverse; */
     }
 
     .memory-gallery {
@@ -179,7 +180,7 @@
         display: flex;
         flex-direction: column;
         justify-content: center;
-        width: 90%;
+        /* width: 90%; */
         text-align: start;
         padding: 16px;
     }
@@ -198,7 +199,7 @@
 .gallery-item img {
     width: 200px;
     height: 200px;
-        object-fit: cover;
+    object-fit: cover;
     cursor: pointer;
     border-radius: 8px;
     transition: transform 0.3s ease;
