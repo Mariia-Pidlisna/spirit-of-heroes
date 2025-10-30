@@ -80,6 +80,7 @@ main:has(.back-link) {
 }
 
 .gallery-list {
+  margin-bottom: 20px;
   padding: 10px 10px 20px 10px;
   border-radius: 6px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -89,6 +90,7 @@ main:has(.back-link) {
   display: flex;
   align-items: center;
   flex-direction: column;
+
 }
 
 .gallery-list img {
@@ -144,8 +146,8 @@ main:has(.back-link) {
     justify-content: center;
   }
   .gallery-list {
-    flex: 1 1 calc(32.333% - 20px);
-      max-width: calc(32.333% - 20px);
+    flex: 1 1 calc(33.333% - 20px);
+      max-width: calc(33.333% - 20px);
   }
 }
 

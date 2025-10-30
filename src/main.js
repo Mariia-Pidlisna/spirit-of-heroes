@@ -15,7 +15,7 @@ import romanovskyiIllia from '/romanovskyi-illia/IMG_2938.webp';
 import yarmolenkoViktor from '/yarmolenko-viktor/IMG_2932.webp';
 import bobrovnykDenys from '/bobrovnyk-denys/IMG_2941.webp';
 import zeleniukVadym from '/zeleniuk-vadym/IMG_3823.webp';
-import tomashchukVitalii from './public/tomashchuk-vitalii/IMG_3810.webp';
+import tomashchukVitalii from '/tomashchuk-vitalii/IMG_3810.webp';
 
 const heroes = [
   {
