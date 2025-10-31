@@ -88,7 +88,7 @@ const heroes = [
     img: zeleniukVadym,
     link: './zeleniuk-vadym/zeleniuk-vadym.html',
     desc: `
-      Спортсмен кіокушинкай карате<br>
+      Спортсмен практикував дзюдо, самбо, рукопашний бій<br>
       Народився у місті Красилів на Хмельниччині`,
   },
   {
