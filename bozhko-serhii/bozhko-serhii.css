@@ -187,6 +187,16 @@
     }
 }
 
+ .info-site {
+    display: flex;
+    text-align: start;
+}
+
+.info-site a:hover {
+    border-bottom: 1px solid #242424;
+    display: inline-block;
+}
+
 /* ===================== back-link ================= */
 
 .back-link {

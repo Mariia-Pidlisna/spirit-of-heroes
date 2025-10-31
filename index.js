@@ -16,7 +16,7 @@
       Народився 2001 року м. Кропивницький`},{name:"Звоник Дан",img:v,link:"./zvonyk-dan/zvonyk-dan.html",desc:`
       Спортсмен кіокушинкай карате<br>
       Народився 1996 року м. Донецьк`},{name:"Зеленюк Вадим",img:M,link:"./zeleniuk-vadym/zeleniuk-vadym.html",desc:`
-      Спортсмен кіокушинкай карате<br>
+      Спортсмен практикував дзюдо, самбо, рукопашний бій<br>
       Народився у місті Красилів на Хмельниччині`},{name:"Костаков Сергій",img:h,link:"./kostakov-serhii/kostakov-serhii.html",desc:`
       Старший солдат, Снайпер<br>
       Народився 12 травня 1972 року в м. Київ`},{name:"Кульков Cергій",img:m,link:"./kulkov-sergiy/kulkov-sergiy.html",desc:`

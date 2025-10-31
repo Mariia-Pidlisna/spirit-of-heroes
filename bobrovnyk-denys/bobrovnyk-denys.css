@@ -185,6 +185,15 @@
     }
 }
 
+.info-site {
+text-align: start;
+display: inline-block;
+}
+
+.info-site:hover {
+display: inline-block;
+border-bottom: 1px solid #242424;
+}
 /* ======================= gallery======================== */
 
 .memory-gallery-img {
