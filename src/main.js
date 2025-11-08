@@ -16,6 +16,7 @@ import yarmolenkoViktor from '/yarmolenko-viktor/IMG_2932.webp';
 import bobrovnykDenys from '/bobrovnyk-denys/IMG_2941.webp';
 import zeleniukVadym from '/zeleniuk-vadym/IMG_3823.webp';
 import tomashchukVitalii from '/tomashchuk-vitalii/IMG_3810.webp';
+import ponomarenkoDenys from '/ponomarenko-denys/IMG_4512.webp';
 
 const heroes = [
   {
@@ -130,6 +131,14 @@ const heroes = [
     desc: `
       Професійно займався кікбоксингом<br>
       Народився 23 листопада 2001 року в м. Київ`,
+  },
+  {
+    name: "Пономаренко Денис",
+    img: ponomarenkoDenys,
+    link: './ponomarenko-denys/ponomarenko-denys.html',
+    desc: `
+      Займався рукопашним боєм<br>
+      Народився 26 березня 1996 року в м. Чернігів`,
   },
     {
     name: "Романовський Ілля",
