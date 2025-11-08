@@ -80,9 +80,8 @@ align-items: center;
 .gallery-button a {
 
     display: inline-block;
-    background: unset;
-      color: #fff;
-      border: 1px solid #fff;
+    background: #fff;
+      color: #111;
       font-size: 14px;
       font-weight: 600;
       padding: 0.5rem 1rem;
@@ -91,8 +90,10 @@ align-items: center;
 }
 
 .gallery-button a:hover {
-background: #fff;
-  color: #111;
+
+  background: unset;
+    color: #fff;
+    border: 1px solid #fff;
 }
 
 .img-banner {
